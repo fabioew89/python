@@ -18,7 +18,7 @@ perguntas = [
 
 indice = range(len(perguntas))
 
-print(indice)
+# print(indice)
 
 for i in indice:
     print(i)
