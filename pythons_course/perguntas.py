@@ -43,5 +43,6 @@ for ask in perguntas:
         print('acertou 🤌')
     else:
         print('Errou!!! 🚫')
+        
 print('Voce acertou', qtd_acertos)
 print('de', len(qtd_acertos),'perguntas')
